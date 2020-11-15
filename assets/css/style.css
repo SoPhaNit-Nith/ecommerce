@@ -1,0 +1,147 @@
+
+.contain{
+    position: relative;
+    text-align: center;
+    color: black;
+}
+    .top_left{
+        position: absolute;
+        top: 8px;
+        left: 40px;
+    }
+    .top_right{
+        position: absolute;
+        top: 8px;
+        right: 40px;
+    }
+    .middle{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    form.example input[type=text] {
+        padding: 10px;
+        font-size: 17px;
+        border: 1px solid grey;
+        float: left;
+        width: 80%;
+        background: #f1f1f1;
+    }
+
+table{
+    width: 100%;
+    
+
+}   
+    td{
+        width: 33%;
+    }
+        .layout_1{
+            background-color:  #f795a1 ;
+            border: 3px solid;
+            
+        }
+            #c1{
+                color: white;
+                align-content: center;
+            }
+            p{
+                color: white;
+            
+            }
+
+        .layout_2{
+            background-color: #eea93e;
+            border: 3px solid;
+            
+        }
+            #c2{
+                color: white;
+                align-content: center;
+            }
+            p{
+                color: white;
+            }
+
+        .layout_3{
+            background-color:  #de4ab8;
+            border: 3px solid;
+            
+        }
+            #c3{
+                color: white;
+                align-content: center;
+            }
+            p{
+                color: white;
+            }
+#pho{
+    align-content: center;
+
+}
+    #img
+table{
+    width: 1350px;
+}
+
+  .table2{
+    width: 100%;
+    height: 500px;
+    border: 2px white solid;
+    }
+    img { 
+      vertical-align: middle; 
+    }
+    .left-part{
+    position: relative;
+    width: 30%;
+    font-size: 30px;
+    font-family: itim;
+    display: contents;
+    }
+    .right-part{
+    width: 60%;
+    }
+    #box1{
+      width: 5%;
+      height: 200px;
+      background-color: white;
+      border: 5px solid black;
+      font-family: itim;
+      padding: 10px;
+    }
+    #price1{
+      color: red;
+    }
+    #price2{
+      color: green;
+    }
+    #bu1{
+      float: right;
+      font-size: 25px;
+      border: 2px black solid;
+      font-family: itim;
+    }
+    .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    font-family: itim;
+    }
+    #top1{
+      float: right;
+      padding: 20px;
+      background-color: #BA670F;
+    }
+    #right{
+      text-align: center;
+    }
+  #table2 {
+    width: 80%;
+    height: 200px;
+    border-collapse: separate;
+    border-spacing: 20px;
+  }
